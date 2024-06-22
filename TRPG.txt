@@ -1,0 +1,6 @@
+*Previa do readme*
+
+TRPG : Terminal Role Play game
+
+Um um rpg de terminal, estrutura simples e talz. 
+
